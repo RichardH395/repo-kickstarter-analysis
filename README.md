@@ -46,7 +46,7 @@ After taking the data and formatting it, the difficulty can be in how you can us
 
 #### What are some limitations of this dataset?
 * One of the limitation of the data set is that we're dealing with a sample amount of Kickstarter Campaigns, if we were to take every single campaign since Kickstarer's inception, it would provide a more accurate representation of of outcomes and goals for every category and call campaigns. Conveniently, this date set really focuses on theatres, which relates to Louise's inquiry in the first place. Looking historically it's important to see time periods where these categories and sub categories where thriving. This could be due to factors that are can or can not be accounted for when looking at these campaigns. For example: The Pandemic put a halt on Theatres and Plays, how does this get accounted for? Times of economic booms or bust, consumer trends and preference changing with techonoligcal and filming technique enhancements, or times when theatres were more prominent historically? 
-* 
+
 * Another Limitation is the data set itself, it provides key metrics but some of these campaigns might or might not be more successful based on the premise of the outcome. What kind of rewards, recognition, concessions are offered for these campaigns? These kind of concessions can determine whether or not an individual decides to fund a campaign. On top of this looking at vast difference in plays. Low budget plays with small scripts and run times might be easier to fund and more likely to succeed, but what about large scale productions? There isn't much information on what funding these campaigns entail, more so what the objective is. 
 
 #### What are some other possible tables and/or graphs that we could create?

@@ -39,14 +39,15 @@ After taking the data and formatting it, the difficulty can be in how you can us
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 * The Two conclusions are that Theatre is the most prominent Parent Category, we take this even further and find that the most successful theatre campaigns launch between May and July. 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 * The conclusion from Outcomes based on Goals show that you don't need a large amount to fund a successful campaign, almost half of the campaigns range from 1000 to 4999. This a very financially feasible amount that has the opportunity to be very successful in the sense that less is more. As the amounts get larger they tend to become less successful and less likely to be funded. 
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 * One of the limitation of the data set is that we're dealing with a sample amount of Kickstarter Campaigns, if we were to take every single campaign since Kickstarer's inception, it would provide a more accurate representation of of outcomes and goals for every category and call campaigns. Conveniently, this date set really focuses on theatres, which relates to Louise's inquiry in the first place. Looking historically it's important to see time periods where these categories and sub categories where thriving. This could be due to factors that are can or can not be accounted for when looking at these campaigns. For example: The Pandemic put a halt on Theatres and Plays, how does this get accounted for? Times of economic booms or bust, consumer trends and preference changing with techonoligcal and filming technique enhancements, or times when theatres were more prominent historically? 
+* 
 * Another Limitation is the data set itself, it provides key metrics but some of these campaigns might or might not be more successful based on the premise of the outcome. What kind of rewards, recognition, concessions are offered for these campaigns? These kind of concessions can determine whether or not an individual decides to fund a campaign. On top of this looking at vast difference in plays. Low budget plays with small scripts and run times might be easier to fund and more likely to succeed, but what about large scale productions? There isn't much information on what funding these campaigns entail, more so what the objective is. 
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 * Tables and graphs that show ALL metrics and information for every single campaign would tell you about Kickstarter campaigns in general. To continue narrowing dowm, include every single campaign for every category, subcategory, funding, and outcome by compartmentalizing all of these you'd get very specific information regarding what makes each of these campaigns more or less successful and different levels of Funding Goals. Tables and Graphs showing the average time frame for every single category and sub category to get a benchmark of what each specific timeline every campaign should be following if they want to succeed. 
